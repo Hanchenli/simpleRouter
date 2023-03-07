@@ -1,7 +1,6 @@
-chirouter - A simple, testable IP router
+chirouter - A simple, testable IP router for University of Chicago course Foundations of Networks
 ========================================
 
-There are sometimes problems with automated test using macbook 2016 VM.
-We have passed all tests in our testing manually with VM on 2016 late Macbook Pro and automated tests on m1 macbook.
+Creator: Faradawn Yang, Hanchen Li (mainly worked on ./src/c)
 
 The chirouter documentation is available at http://chi.cs.uchicago.edu/chirouter/
